@@ -1,0 +1,6 @@
+D:\Programozás\Visual Studio\Feladatok\Etterem\Etterem\Etterem\bin\Debug\Etterem.exe.config
+D:\Programozás\Visual Studio\Feladatok\Etterem\Etterem\Etterem\obj\Debug\Etterem.csprojResolveAssemblyReference.cache
+D:\Programozás\Visual Studio\Feladatok\Etterem\Etterem\Etterem\bin\Debug\Etterem.exe
+D:\Programozás\Visual Studio\Feladatok\Etterem\Etterem\Etterem\bin\Debug\Etterem.pdb
+D:\Programozás\Visual Studio\Feladatok\Etterem\Etterem\Etterem\obj\Debug\Etterem.exe
+D:\Programozás\Visual Studio\Feladatok\Etterem\Etterem\Etterem\obj\Debug\Etterem.pdb
